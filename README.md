@@ -91,15 +91,15 @@ This dashboard consolidates raw e-commerce transactional data into a single, fil
 
 | Overview | Sales |
 |---|---|
-| ![Overview](screenshots/overview.png) | ![Sales](screenshots/sales.png) |
+| ![Overview](overview.png) | ![Sales](sales.png) |
 
 | Orders | Product |
 |---|---|
-| ![Orders](screenshots/orders.png) | ![Product](screenshots/product.png) |
+| ![Orders](orders.png) | ![Product](product.png) |
 
 | Customer | Drill Through |
 |---|---|
-| ![Customer](screenshots/customer.png) | ![Drill Through](screenshots/drill_through.png) |
+| ![Customer](customer.png) |
 
 ---
 
