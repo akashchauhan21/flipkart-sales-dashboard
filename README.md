@@ -97,7 +97,7 @@ This dashboard consolidates raw e-commerce transactional data into a single, fil
 |---|---|
 | ![Orders](order.png) | ![Product](product.png) |
 
-| Customer | Drill Through |
+| Customer |
 |---|---|
 | ![Customer](customer.png) |
 
