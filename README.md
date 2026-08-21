@@ -10,7 +10,7 @@ An interactive **Power BI dashboard** built to analyse Flipkart's e-commerce sal
 
 ## 📌 Project Overview
 
-This dashboard consolidates raw e-commerce transactional data into a single, filterable Power BI report. It follows a clean **star-schema data model** (one Fact table + multiple Dimension tables) and uses **DAX measures** to power KPIs, trends, and interactive visuals across 8 report pages.
+This dashboard consolidates raw e-commerce transactional data into a single, filterable Power BI report. It follows a clean **snowflake-schema data model** (one Fact table + multiple Dimension tables) and uses **DAX measures** to power KPIs, trends, and interactive visuals across 8 report pages.
 
 **File:** `Flipkart_Sales_Dashboard.pbix`
 
@@ -32,7 +32,7 @@ This dashboard consolidates raw e-commerce transactional data into a single, fil
 |---|---|
 | **Microsoft Power BI Desktop** | Report authoring & visualisation |
 | **Power Query** | Data extraction, cleaning & transformation |
-| **Data Modelling** | Star schema (Fact + Dimension tables) |
+| **Data Modelling** | Snowflake schema (Fact + Dimension tables) |
 | **DAX** | Measures for KPIs and dynamic calculations |
 
 ---
